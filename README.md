@@ -1,5 +1,5 @@
 **A qiskit 2.0 primitives project showcasing that space is merely an emergence of quantum relations
-rather than a container as assumed in classical (Newtonian) physics.**
+rather than a container as assumed in classical (Newtonian) physics.** Worth noting that I won't be focusing on pure mathematical derivations in my explanations.
 
 ## SPIN NETWORK
 This was achieved by entangling three qubits together using the cz gate (Controlled-Z gate), to set the qubits
