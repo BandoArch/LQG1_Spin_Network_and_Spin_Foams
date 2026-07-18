@@ -24,6 +24,8 @@ After reaching maximum expansion at a threshold, the volume starts to contract b
 This process repeats causing a sort of "breathing" effect that can also be observed after running the code.
 This "breathing" effect along with the restructuring of the entanglement lines (cz gates) with respect to the changes in the spin state of the space "atom", is what is known as the passage of time.
 
+***NOTE: The angle of rotation (0.2) is chosen for visual clarity rather than derived from ohysical constants such as the Barbero-Immirzi parameter.***
+
 #### Terminal output and graph:
 ```bash
 Time Step 1 -> Probability of '000': 0.143 | Total Counts: {'010': 107, '000': 146, '111': 139, '011': 130, '001': 135, '101': 138, '110': 111, '100': 118}
