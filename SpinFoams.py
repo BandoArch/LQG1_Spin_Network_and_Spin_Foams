@@ -40,7 +40,6 @@ for t in range(1, 6):
 
 # Plotting the data
 time_steps = [1, 2, 3, 4, 5]
- # The '000' state data
 
 plt.plot(time_steps, dynamic_probabilities, marker='o', linestyle='-', color='b')
 plt.title("Volume Fluctuation (The 'Breathing' Effect)")
